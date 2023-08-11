@@ -1,0 +1,70 @@
+[
+    {
+        "dateOfStart": "01-2022",
+        "dateOfEnd": "03/2022",
+        "title": "Freelance web developer",
+        "description": "As part of a freelance project , I have developed a coffee managementé system from scratch .It's a desktop application developed with electron js(using angular) that allows the servers to manage their orders. it alsoallows the admin to manage their income and have basic statistics in afull report, filtered to the admin's demand , by servers or/and period oftime . The admin can also have an annual financial report . The apprenders complicated charts to visualize the progress of the business .",
+        "technologies": [
+            "Electron js",
+            "Angular",
+            "Nest js"
+        ],
+        "githubLink": "https://github.com/project1"
+    },
+    {
+        "dateOfStart": "07/2022",
+        "dateOfEnd": "09/2022",
+        "title": "Internship in Actia E.S",
+        "description": "During my summer internship at ACTIA ES, I worked with a team of 3 interns on a web application called HR Tools  which facilitates the management of leaves, remote work, HR requests, complaints, and teams. This application also includes an internal social network that enables the sharing of events and posts, with the ability to comment and react to them.",
+        "technologies": [
+            ".Net core 6",
+            "Angular",
+            "Microsoft azure cloud "
+        ],
+        "githubLink": "https://github.com/project2"
+    },
+    {
+        "dateOfStart": "06/2023",
+        "dateOfEnd": "present",
+        "title": "Internship in PRIMATEC Engineering",
+        "description": "I am currently working on developing a configuration app (MTF) as part of my internship. This application offers great flexibility to the client in configuring the tool according to their needs, as well as the ability to import an existing configuration and modify it. The MTF is a tool that use Primatec for testing cars .",
+        "technologies": [
+            "PQt/PyQt6",
+            "Python"
+        ],
+        "githubLink": "https://github.com/project1"
+    },
+    {
+        "dateOfStart": "01/2022",
+        "dateOfEnd": "05/2022",
+        "title": "E-commerce website (619 -street)",
+        "description": "As part of a study project, I developed an e-commerce website that specifically targets Tunisian artisans, allowing them to sell their products and facilitating their growth.",
+        "technologies": [
+            "Angular",
+            "Nest js / mysql"
+        ],
+        "githubLink": "https://github.com/project1"
+    },
+    {
+        "dateOfStart": "02/2023",
+        "dateOfEnd": "05/2023",
+        "title": "Bitorrent client",
+        "description": "As part of an end-of-year project (PFA), my partner and I developed a BitTorrent client. Before starting the development, we conducted an in-depth research phase on the protocol, specifications, and existing solutions. Our application enables the downloading of resources from peers in a distributed and parallel manner, utilizing good programming practices and optimized architecture. For more details, you can refer to the following GitHub repository, accompanied by a README file",
+        "technologies": [
+            "Typescript"
+        ],
+        "githubLink": "https://github.com/MedNoun/seedify"
+    },
+    {
+        "dateOfStart": "03/2023",
+        "dateOfEnd": "05/2023",
+        "title": "DevSecOps",
+        "description": "As part of a personal project at INSAT, I worked on the Ops and Sec aspects of an existing web-based social networking application. My work involved analyzing code quality and vulnerabilities using SAST tools, as well as examining the application's dependencies. For the Ops part, I created Docker files for each component (frontend, backend, and database) and automated the build process using a simple Jenkins pipeline. This pipeline automatically deploys the images to Docker Hub.",
+        "technologies": [
+            "Snyk",
+            "Sonarqube",
+            "Jenkins"
+        ],
+        "githubLink": "https://github.com/project1"
+    }
+]
